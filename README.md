@@ -21,5 +21,5 @@ This project demonstrates SQL queries for Employee and Health data analysis:
 3. Run `health_analysis_queries.sql` to perform analysis.
 
 ## 🔗 Connect with Me
-If you like this project, connect with me on [LinkedIn](linkedin.com/in/jyoti-kashyap-58a32336b
+If you like this project, connect with me on [LinkedIn](www.linkedin.com/in/jyoti-kashyap-58a32336b
 ).
